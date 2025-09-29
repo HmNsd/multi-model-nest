@@ -17,11 +17,7 @@ Ideal for developers building AI/ML dashboards, model testing tools, or frontend
 
 ---
 
-## 📸 Screenshots
 
-> _Coming Soon_ – or add your own here!
-
----
 
 ## 🛠️ Tech Stack
 
@@ -31,6 +27,3 @@ Ideal for developers building AI/ML dashboards, model testing tools, or frontend
 - **React Hooks** – for state and event handling
 
 ---
-
-## 📁 Folder Structure (Simplified)
-
